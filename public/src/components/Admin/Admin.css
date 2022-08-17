@@ -1,0 +1,38 @@
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+.mainForTabs {
+}
+.item1 {
+  color: rgba(214, 212, 212, 0.783);
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.item2,
+.item3 {
+  color: white;
+  padding: 10px;
+  font-size: large;
+}
+
+.item2:hover,
+.item3:hover {
+  background: rgb(63, 62, 62);
+  cursor: pointer;
+  color: #208154;
+  border-left: 5px solid #208154;
+}
+.item2Active {
+  background: rgb(63, 62, 62);
+  cursor: pointer;
+  color: #208154;
+  border-left: 5px solid #208154;
+  padding: 11px;
+  font-size: large;
+}
+
+.imageHover:hover {
+   box-shadow: 1px 1px 3px 1px gray;
+ }
