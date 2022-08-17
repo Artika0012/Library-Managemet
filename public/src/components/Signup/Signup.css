@@ -1,0 +1,23 @@
+.main {
+  opacity: 0.9;
+  padding-top: 70px;
+}
+
+.SignupMain {
+  border-radius: 10px;
+  margin: auto;
+  background: white;
+  padding: 60px 15px;
+  width: 330px;
+}
+
+.SignupButton {
+  width: 100%;
+  margin-top: 15px;
+  outline: none;
+}
+
+.SignupMain form {
+  margin: 0 auto;
+  max-width: 320px;
+}
