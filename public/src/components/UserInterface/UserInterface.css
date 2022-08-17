@@ -1,0 +1,8 @@
+.age,
+.wieght,
+.hieght {
+  font-weight: bold;
+}
+.profileImage:hover{
+  box-shadow: 1px 1px 3px 1px gray;
+}
